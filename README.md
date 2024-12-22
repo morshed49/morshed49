@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Golam Morshed
-#### Web developer
+#### Software Engineer
 ![Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 My passion for web development brought me to (Southeast university) where I am completing my bachelor's degree.
 Currently, I focus on responsive WordPress websites, I typically use HTML/CSS, Bootstrap, and Javascript on the client, PHP, python on the server, and HTTP for communications between the client and server.
 
-Skills: HTML / CSS/ Bootstrap / JS / WordPress
+Skills: HTML / CSS/ Bootstrap / JS / PHP/ jQuery / MySql / NodeJs / ExpressJs / MongoDB
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript And WordPress 
+- 🌱 I’m currently learning React
 - 💬 Ask me about Web development 
 
 
@@ -16,16 +16,6 @@ Skills: HTML / CSS/ Bootstrap / JS / WordPress
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=morshed49)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshed49)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morshed49&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=morshed49)  
-
-![GitHub metrics](https://metrics.lecoq.io/morshed49)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=morshed49)  
-
-![Profile views](https://gpvc.arturio.dev/morshed49)  
